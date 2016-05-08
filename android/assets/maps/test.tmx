@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="32" tileheight="32" nextobjectid="103">
+ <tileset firstgid="1" name="atlas" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="../data/atlas.png" width="64" height="64"/>
+ </tileset>
+ <layer name="Слой тайлов 1" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmNEKwCAIRWX1/9889ipOrO7UbAd8lQ6VdOtE1AtUo/1pdK6HtKfe8HWf7JERD4+3+SJxCWWBe0h9RvpJZPdorDJ5jGD1GCHC4wuqeMzye+Siuof1zWGZp9pMQ827aA8Uq/3RHlpO0sjmMUv1e74bJ3nw9yDivKMzZZQHmmzrseKRz2fz5Er25B6Ic5vBI5IqHis8Dtrfwk51AxOhA+o=
+  </data>
+ </layer>
+ <objectgroup name="Collision layer">
+  <object id="69" x="0" y="960">
+   <polyline points="0,0 1600,0 1600,-32 0,-32 0,0"/>
+  </object>
+  <object id="70" x="0" y="32">
+   <polyline points="0,0 1600,0 1600,-32 0,-32 0,0"/>
+  </object>
+  <object id="71" x="0" y="928">
+   <polyline points="0,0 0,-896 32,-896 32,0 0,0"/>
+  </object>
+  <object id="72" x="1568" y="928">
+   <polyline points="0,0 0,-896 32,-896 32,0 0,0"/>
+  </object>
+  <object id="73" x="96" y="864">
+   <polyline points="0,0 0,-32 160,-32 160,0 0,0"/>
+  </object>
+  <object id="76" x="1088" y="896">
+   <polyline points="0,0 0,-96 96,-96 96,0 0,0"/>
+  </object>
+  <object id="79" x="640" y="864">
+   <polyline points="0,0 0,-64 192,-64 192,0 0,0"/>
+  </object>
+  <object id="80" x="1440" y="800">
+   <polyline points="0,0 0,-32 64,-32 64,0 0,0"/>
+  </object>
+  <object id="82" x="875.758" y="1130.3"/>
+  <object id="87" x="96" y="224" width="224" height="64"/>
+  <object id="90" x="384" y="96" width="160" height="64"/>
+  <object id="91" x="448" y="256" width="128" height="64"/>
+  <object id="92" x="480" y="480" width="160" height="128"/>
+  <object id="93" x="256" y="704" width="224" height="64"/>
+  <object id="94" x="160" y="480" width="96" height="64"/>
+  <object id="95" x="768" y="192" width="192" height="96"/>
+  <object id="96" x="768" y="480" width="96" height="128"/>
+  <object id="97" x="928" y="704" width="160" height="32"/>
+  <object id="98" x="992" y="480" width="96" height="32"/>
+  <object id="99" x="1120" y="544" width="224" height="32"/>
+  <object id="100" x="1120" y="192" width="160" height="160"/>
+  <object id="102" x="1440" y="96" width="64" height="64"/>
+ </objectgroup>
+</map>

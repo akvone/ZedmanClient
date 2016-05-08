@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.6.2\31fb4bf50b62daadee5e94f39679812ad8a9ae00\socket.io-client-0.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\socket.io-client-0.6.2_b896eead69c85976c7f2c5867de9c1ed5c16cfd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.esotericsoftware.kryo\kryo\2.24.0\c6b206e80cfd97e66a1364003724491c757b92f\kryo-2.24.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c6b206e80cfd97e66a1364003724491c757b92f">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\kryo-2.24.0_5142a7f5fc2345ba270aad3ace31ea29cfa1b28e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\okio-1.6.0_f474a806ba61d1790df1e5ce8565ce04cbcce12c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65ae33ac0a0a715abaae56a590e5f6fd62287caa">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d12cae9af3c5ee3f27672ff702eed210c4fa97b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\gdx-1.9.2_864dae1a09920e832055a487e9f96e3ef6a19dd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.2_97e6029e522f7ca6f7deb99900ff983962beff16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.esotericsoftware.minlog\minlog\1.2\59bfcd171d82f9981a5e242b9e840191f650e209\minlog-1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="59bfcd171d82f9981a5e242b9e840191f650e209">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\minlog-1.2_a8cafb50fdbb8e2b8b21f0e16580480b9d313a66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.6.2\939f90d47c800626d5b0a4e7f89f98b3dde61dc6\engine.io-client-0.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\engine.io-client-0.6.2_4e7dcb93b0ec975c5522577db5cf52dfa4de29de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0_0d5eba47def565f951d05c19f07398f45b1caecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\okhttp-2.5.0_689f8237487706916be4f3c77aad4ec5677356bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="02859fda7e763c946b0b5d8cda7b4af87f98e9c7">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\instant-run_762c44384a6a993774f0a466e60db8c06dbc1db3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.1\87c0ea803b69252868d09308b4618f766f135a96\objenesis-2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\objenesis-2.1_a9b959ab1ea18651a3e0d1e41eca35a459dda6b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\jsonbeans\0.7\de977f0875708eddd154f2a4c3a3f58a13ef297\jsonbeans-0.7.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0de977f0875708eddd154f2a4c3a3f58a13ef297">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\jsonbeans-0.7_d5fe3e555006a3a8157d043fd3da1be0e648dd7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.2_097237c0d0adb52e5f27aefdd76da018361d0c47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kirill\.gradle\caches\modules-2\files-2.1\com.esotericsoftware\kryonet\2.22.0-RC1\2f25f7250a3096a8d1b8182946f6572d90d280d0\kryonet-2.22.0-RC1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f25f7250a3096a8d1b8182946f6572d90d280d0">
+        <dex dex="C:\Users\Kirill\Documents\GitHub\ZedmanClient\android\build\intermediates\pre-dexed\debug\kryonet-2.22.0-RC1_b0004555f5197a5288d085cd9a43ff548fb2fdf5.jar" />
+    </item>
+
+</items>
